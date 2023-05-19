@@ -672,8 +672,9 @@ span {
         margin: 3rem 0;
     }
 
-    @media (max-width: 462px) {
-        .contact form .input-box .input-field {
+   @media (max-width: 462px) {
+        .contact form .input-box .input-field,
+        .contact form .textarea-field textarea {
             width: 100%;
      }
   }  
